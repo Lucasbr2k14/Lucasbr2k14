@@ -1,11 +1,11 @@
-### Olá sejá bem-vindo ao meu repositório. 👋
+### Olá, sejá bem-vindo ao meu repositório. 👋
 
 ##
 
-O que eu faço:
+<h3>O que eu faço:</h3>
 
 - 🔭 Trabalho: Desempregado
-- 🌱 O que eu estou estudando: NodeJS
+- 🌱 O que eu estou estudando: NodeJS e discordjs
 - 💬 Fale comigo: lucasbraubach@gmail.com
 - 📫 Fale comigo: @lucas_raubach 
 
