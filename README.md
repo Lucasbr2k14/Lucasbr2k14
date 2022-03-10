@@ -6,10 +6,8 @@
 
 - 🔭 Trabalho: Desempregado
 - 🌱 O que eu estou estudando: NodeJS e discordjs
-- 
 - 📫 Fale comigo: lucasbraubach@gmail.com
 - 💬 Fale comigo: @lucas_raubach 
-- 
 ##
 
 <div>
