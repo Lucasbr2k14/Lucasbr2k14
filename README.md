@@ -5,7 +5,7 @@
 <h3>O que eu faço:</h3>
 
 - 🔭 Trabalho: Desempregado
-- 🌱 O que eu estou estudando: NodeJS e discordjs
+- 🌱 O que eu estou estudando: NodeJS e rust
 - 📫 Fale comigo: lucasbraubach@gmail.com
 - 💬 Fale comigo: @lucas_raubach 
 ##
