@@ -3,10 +3,11 @@
 ##
 
 <h3>O que eu faço:</h3>
-- 📖 Estudante de Engenharia de Computação Furg
-- 🌱 O que eu estou estudando: python e rust
-- 📫 Fale comigo: lucasbraubach@gmail.com
-- 💬 Fale comigo: @lucas_raubach 
+- 📖 Estudante de Engenharia de Computação Furg </br>
+- 🌱 O que eu estou estudando: python e rust </br>
+- 📫 Fale comigo: lucasbraubach@gmail.com </br>
+- 💬 Fale comigo: @lucas_raubach </br>
+
 ##
 
 <div>
