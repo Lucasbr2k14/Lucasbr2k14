@@ -3,9 +3,8 @@
 ##
 
 <h3>O que eu faço:</h3>
-
-- 🔭 Trabalho: Desempregado
-- 🌱 O que eu estou estudando: NodeJS e rust
+- 📖 Estudante de Engenharia de Computação Furg
+- 🌱 O que eu estou estudando: python e rust
 - 📫 Fale comigo: lucasbraubach@gmail.com
 - 💬 Fale comigo: @lucas_raubach 
 ##
