@@ -2,9 +2,9 @@
 
 ##
 
-<h3>O que eu faço:</h3>
+<h3> O que eu faço? </h3>
 - 📖 Estudante de Engenharia de Computação Furg </br>
-- 🌱 O que eu estou estudando: python e rust </br>
+- 🌱 O que eu estou estudando: Python, C e Rust </br>
 - 📫 Fale comigo: lucasbraubach@gmail.com </br>
 - 💬 Fale comigo: @lucas_raubach </br>
 
